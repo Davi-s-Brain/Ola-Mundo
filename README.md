@@ -3,4 +3,4 @@
 
  Alterando novamente, uau que legal.
 
-**Testando** o #markdown#
+**Testando** o *markdown*
