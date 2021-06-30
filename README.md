@@ -30,7 +30,7 @@ Malu | 17 | F
 Testando o comando `getElementeByName()`
 
 ```
-print ("Ado ado ado, o André é viado")
+print ("Ado ado ado, cada um no seu quadrado")
 ```
 🖖
 
